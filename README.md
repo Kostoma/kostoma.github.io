@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Simple Sidebar Preview](https://startbootstrap.com/assets/img/templates/simple-sidebar.jpg)](https://blackrockdigital.github.io/startbootstrap-simple-sidebar/)
+[![epigraf](https://startbootstrap.com/assets/img/templates/simple-sidebar.jpg)](https://blackrockdigital.github.io/startbootstrap-simple-sidebar/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-simple-sidebar/)**
 
